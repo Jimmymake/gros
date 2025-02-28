@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299180950715",
+    "project_id": "grosaryapp-d67bf",
+    "storage_bucket": "grosaryapp-d67bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299180950715:android:ad2fc0ab4b2528d1eed59e",
+        "android_client_info": {
+          "package_name": "com.mayekujimy997.grosaryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUcGsNJ6e40EZOyqmydvIG19xqKy0Tf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
